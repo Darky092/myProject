@@ -1,0 +1,26 @@
+body
+{
+    background-color:  #333;
+}
+h1
+{
+padding: 10px;
+text-align: center;
+font-style: italic;
+color: rgb(116, 33, 33);
+}
+img
+{
+ position: absolute;
+ left: 600px;
+}
+.content
+{
+    position: absolute;
+    font-style: italic;
+    text-align: center;
+    color: rgb(112, 27, 27);
+    font-size: xx-large;
+    bottom: 300px;
+    right: 200px;
+}

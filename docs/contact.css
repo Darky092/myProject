@@ -1,0 +1,31 @@
+h1
+{
+ font-style: oblique;
+ font-size: 50px;
+ color: black;
+ text-align: left;   
+}
+img 
+{
+position: absolute;
+left: 909px;
+bottom: 10px;
+border-color: rgb(49, 44, 44);
+border-style: solid;
+border-width: 10px;
+}
+.text
+{
+font-size: larger;
+font-style: inherit;
+color: black;
+overflow: hidden;
+position: absolute;
+}
+.hazinburger
+{
+position: absolute;
+bottom: 300px;
+font-size: medium; 
+overflow: hidden;
+}
